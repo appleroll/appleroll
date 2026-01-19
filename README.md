@@ -5,7 +5,7 @@ You can find out more about me on my [personal website!](https://ethanzyx.vercel
 
 [GPG Key](https://ethanzyx.vercel.app/pgp.txt)
 ## What I've been up to
-I've recently finished a project, and that is [MooseOS](https://github.com/frogtheastronaut/moose-os), a small operating system written in C.
+I've recently finished a project, and that is [MooseOS](https://github.com/appleroll/moose-os), a small operating system written in C.
 
 ## Tools/Languages I enjoy using
 
@@ -33,5 +33,5 @@ I've recently finished a project, and that is [MooseOS](https://github.com/frogt
 
 # My Legacy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=frogtheastronaut&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=frogtheastronaut&show_icons=true&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=appleroll&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=appleroll&show_icons=true&theme=onedark)
