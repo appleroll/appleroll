@@ -30,6 +30,7 @@ I've recently finished a project, and that is [MooseOS](https://github.com/apple
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
+Here are some stats according to popular GitHub sources. I don't like quantifying my skills into spreadsheets and charts but it does offer a brief overview of my legacy on GitHub.
 
 ![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=appleroll&theme=onedark)
 [![Ethan's GitHub stats](https://github-stats-extended.vercel.app/api?username=appleroll&theme=onedark)](https://github.com/stats-organization/github-stats-extended)
