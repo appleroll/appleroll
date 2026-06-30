@@ -31,5 +31,5 @@ I've recently finished a project, and that is [MooseOS](https://github.com/apple
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=appleroll&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=appleroll&show_icons=true&theme=onedark)
+![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=appleroll&theme=onedark)
+[![Ethan's GitHub stats](https://github-stats-extended.vercel.app/api?username=appleroll&theme=onedark)](https://github.com/stats-organization/github-stats-extended)
