@@ -1,11 +1,11 @@
 # Hi there 👋
 
-I'm Ethan, a teenage kid who enjoys learning a bit of everything. 
+I'm Ethan, an Australia-based teenage kid/high school student who enjoys learning a bit of everything. 
 You can find out more about me on my [personal website!](https://ethanzyx.vercel.app/)
 
 [GPG Key](https://ethanzyx.vercel.app/pgp.txt)
 ## What I've been up to
-I've recently finished a project, and that is [MooseOS](https://github.com/appleroll/moose-os), a small operating system written in C.
+I've recently finished a project, and that is [MooseOS](https://github.com/appleroll/moose-os), a small operating system written in C, as well as its GPT experiment [KernelGPT](https://github.com/appleroll/moose-os). Currently making my own Wierd IKEA Sim, a custom non-euclidean simulation of IKEA.
 
 ## Tools/Languages I enjoy using
 
@@ -30,8 +30,6 @@ I've recently finished a project, and that is [MooseOS](https://github.com/apple
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
-
-# My Legacy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=appleroll&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=appleroll&show_icons=true&theme=onedark)
